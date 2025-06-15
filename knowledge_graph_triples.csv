@@ -1,0 +1,700 @@
+﻿subject,predicate,object
+Cockroach,has_insecticide,Pyrethrins
+Cockroach,has_insecticide,Diatomaceous Earth
+Cockroach,has_insecticide,Silicon Dioxide
+Cockroach,has_insecticide,Rosemary Oil
+Cockroach,has_insecticide,Abamectin Bait
+Cockroach,has_insecticide,Boric Acid
+Mosquito,has_insecticide,Azadirachtin
+Mosquito,has_insecticide,Bacillus thuringiensis var. israelensis
+Mosquito,has_insecticide,Garlic Extract
+Mosquito,has_insecticide,Spinosad
+Mosquito,has_insecticide,Pyrethrins
+Mosquito,has_insecticide,Bacillus sphaericus
+Ant,has_insecticide,Abamectin
+Ant,has_insecticide,Dinotefuran
+Ant,has_insecticide,Azadirachtin
+Ant,has_insecticide,Spinosad
+Ant,has_insecticide,Boric Acid
+Ant,has_insecticide,Pyrethrins
+Ant,has_insecticide,Diatomaceous Earth
+Ant,has_insecticide,Silicon Dioxide
+Ant,has_insecticide,Rosemary Oil
+Ant,has_insecticide,Garlic Extract
+Ant,has_insecticide,Disodium Octaborate Tetrahydrate
+Ant,has_insecticide,Sodium Tetraborate Decahydrate
+Ant,has_insecticide,Heterorhabditis bacteriophora
+Ant,has_insecticide,Sodium Borate
+Termite,has_insecticide,Azadirachtin
+Termite,has_insecticide,Disodium Octaborate Tetrahydrate
+Termite,has_insecticide,Boric Acid
+Termite,has_insecticide,Rosemary Oil
+Termite,has_insecticide,Heterorhabditis bacteriophora
+Termite,has_insecticide,Steinernema carpocapsae
+Housefly,has_insecticide,Azadirachtin
+Housefly,has_insecticide,Dinotefuran
+Housefly,has_insecticide,Pyrethrins
+Fruit fly,has_insecticide,Azadirachtin
+Fruit fly,has_insecticide,Pyrethrins
+Fruit fly,has_insecticide,Diatomaceous Earth
+Fruit fly,has_insecticide,Silicon Dioxide
+Fruit fly,has_insecticide,Spinosad
+Fruit fly,has_insecticide,Fats and Glyceridic Oils of Margosa
+Fruit fly,has_insecticide,Sulfur
+Fruit fly,has_insecticide,Rosemary Oil
+Fruit fly,has_insecticide,Garlic Extract
+Fruit fly,has_insecticide,Chromobacterium subtsugae strain PRAA4-1T
+Fruit fly,has_insecticide,Heterorhabditis bacteriophora
+Fruit fly,has_insecticide,Kaolin
+Silverfish,has_insecticide,Boric Acid
+Silverfish,has_insecticide,Pyrethrins
+Silverfish,has_insecticide,Diatomaceous Earth
+Silverfish,has_insecticide,Silicon Dioxide
+Silverfish,has_insecticide,Rosemary Oil
+Silverfish,has_insecticide,Abamectin Bait
+Carpet beetle,has_insecticide,Pyrethrins
+Carpet beetle,has_insecticide,Diatomaceous Earth
+Carpet beetle,has_insecticide,Silicon Dioxide
+Bed bug,has_insecticide,Dinotefuran
+Bed bug,has_insecticide,Pyrethrins
+Bed bug,has_insecticide,Diatomaceous Earth
+Bed bug,has_insecticide,Silicon Dioxide
+Flea,has_insecticide,Dinotefuran
+Flea,has_insecticide,Garlic Extract
+Flea,has_insecticide,Diatomaceous Earth
+Flea,has_insecticide,Silicon Dioxide
+Flea,has_insecticide,Spinosad
+Flea,has_insecticide,Pyrethrins
+Flea,has_insecticide,Rosemary Oil
+Flea,has_insecticide,Steinernema carpocapsae
+Flea,has_insecticide,Heterorhabditis bacteriophora
+Moth,has_insecticide,Azadirachtin
+Moth,has_insecticide,Garlic Extract
+Moth,has_insecticide,Pyrethrins
+Moth,has_insecticide,Diatomaceous Earth
+Moth,has_insecticide,Silicon Dioxide
+Moth,has_insecticide,Rosemary Oil
+Booklouse,has_insecticide,Diatomaceous Earth
+Booklouse,has_insecticide,Silicon Dioxide
+Spider,has_insecticide,Dinotefuran
+Spider,has_insecticide,Pyrethrins
+Spider,has_insecticide,Rosemary Oil
+Spider,has_insecticide,Garlic Extract
+Centipede,has_insecticide,Dinotefuran
+Centipede,has_insecticide,Diatomaceous Earth
+Centipede,has_insecticide,Silicon Dioxide
+Centipede,has_insecticide,Pyrethrins
+Centipede,has_insecticide,Rosemary Oil
+Weevil,has_insecticide,Azadirachtin
+Weevil,has_insecticide,Garlic Extract
+Weevil,has_insecticide,Pyrethrins
+Weevil,has_insecticide,Diatomaceous Earth
+Weevil,has_insecticide,Silicon Dioxide
+Weevil,has_insecticide,Fats and Glyceridic Oils of Margosa
+Weevil,has_insecticide,Rosemary Oil
+Weevil,has_insecticide,Neem Oil
+Weevil,has_insecticide,Metarhizium anisopliae
+Weevil,has_insecticide,Heterorhabditis bacteriophora
+Weevil,has_insecticide,Isaria fumosorosea
+Weevil,has_insecticide,Paecilomyces fumosoroseus
+Weevil,has_insecticide,Isaria fumosorosea Apopka Strain 97
+Plodia interpunctella,has_insecticide,Bacillus thuringiensis var. kurstaki
+Plodia interpunctella,has_insecticide,Pyrethrins
+Plodia interpunctella,has_insecticide,Diatomaceous Earth
+Plodia interpunctella,has_insecticide,Silicon Dioxide
+Plodia interpunctella,has_insecticide,Bacillus thuringiensis var. israelensis
+Plodia interpunctella,has_insecticide,Bacillus thuringiensis var. aizawai
+Gnats,has_insecticide,Azadirachtin
+Gnats,has_insecticide,Pyrethrins
+Gnats,has_insecticide,Diatomaceous Earth
+Gnats,has_insecticide,Silicon Dioxide
+Gnats,has_insecticide,S-Kinoprene
+Gnats,has_insecticide,Bacillus thuringiensis var. israelensis
+Gnats,has_insecticide,Soybean oil
+Gnats,has_insecticide,Heterorhabditis bacteriophora
+Gnats,has_insecticide,Mineral Oil
+Gnats,has_insecticide,Beauveria bassiana
+Gnats,has_insecticide,Steinernema feltiae
+Gnats,has_insecticide,Isaria fumosorosea
+Gnats,has_insecticide,Paecilomyces fumosoroseus
+Gnats,has_insecticide,Azadirachtin
+Gnats,has_insecticide,Pyrethrins
+Earwig,has_insecticide,Dinotefuran
+Earwig,has_insecticide,Garlic Extract
+Earwig,has_insecticide,Pyrethrins
+Earwig,has_insecticide,Diatomaceous Earth
+Earwig,has_insecticide,Silicon Dioxide
+Earwig,has_insecticide,Potassium Salts of Fatty Acids
+Earwig,has_insecticide,Rosemary Oil
+Earwig,has_insecticide,Boric Acid
+Earwig,has_insecticide,Ammoniated soap of fatty acids
+Earwig,has_insecticide,Ammonium Nonanoate
+Earwig,has_insecticide,Clove Oil
+Earwig,has_insecticide,Eugenol
+Beetle,has_insecticide,Azadirachtin
+Beetle,has_insecticide,Garlic Extract
+Beetle,has_insecticide,Spinosad
+Beetle,has_insecticide,Pyrethrins
+Beetle,has_insecticide,Diatomaceous Earth
+Beetle,has_insecticide,Silicon Dioxide
+Beetle,has_insecticide,Fats and Glyceridic Oils of Margosa
+Beetle,has_insecticide,Rosemary Oil
+Beetle,has_insecticide,Neem Oil
+Beetle,has_insecticide,Garlic Extract
+Beetle,has_insecticide,Isaria fumosorosea
+Beetle,has_insecticide,Paecilomyces fumosoroseus
+Beetle,has_insecticide,Potassium Salts of Fatty Acids
+Firebrat,has_insecticide,Pyrethrins
+Firebrat,has_insecticide,Rosemary Oil
+Crane fly,has_insecticide,Azadirachtin
+Crane fly,has_insecticide,Pyrethrins
+Crane fly,has_insecticide,Diatomaceous Earth
+Crane fly,has_insecticide,Silicon Dioxide
+Crane fly,has_insecticide,Garlic Extract
+Rice weevil,has_insecticide,Pyrethrins
+Rice weevil,has_insecticide,Diatomaceous Earth
+Rice weevil,has_insecticide,Silicon Dioxide
+Rice weevil,has_insecticide,Rosemary Oil
+Rice weevil,has_insecticide,Azadirachtin
+Cigarette beetle,has_insecticide,Pyrethrins
+Cigarette beetle,has_insecticide,Diatomaceous Earth
+Cigarette beetle,has_insecticide,Silicon Dioxide
+Cigarette beetle,has_insecticide,Rosemary Oil
+Drugstore Beetle,has_insecticide,Pyrethrins
+Drugstore Beetle,has_insecticide,Diatomaceous Earth
+Drugstore Beetle,has_insecticide,Silicon Dioxide
+Drugstore Beetle,has_insecticide,Rosemary Oil
+Spider beetle,has_insecticide,Pyrethrins
+Spider beetle,has_insecticide,Diatomaceous Earth
+Spider beetle,has_insecticide,Silicon Dioxide
+Spider beetle,has_insecticide,Rosemary Oil
+Pharaoh ant,has_insecticide,Abamectin
+Indianmeal moth,has_insecticide,Bacillus thuringiensis var. kurstaki
+Indianmeal moth,has_insecticide,Pyrethrins
+Indianmeal moth,has_insecticide,Diatomaceous Earth
+Indianmeal moth,has_insecticide,Silicon Dioxide
+Indianmeal moth,has_insecticide,Bacillus thuringiensis var. israelensis
+Indianmeal moth,has_insecticide,Bacillus thuringiensis var. aizawai
+Fungus gnat,has_insecticide,Azadirachtin
+Fungus gnat,has_insecticide,Pyrethrins
+Fungus gnat,has_insecticide,Diatomaceous Earth
+Fungus gnat,has_insecticide,Silicon Dioxide
+Fungus gnat,has_insecticide,S-Kinoprene
+Fungus gnat,has_insecticide,Bacillus thuringiensis var. israelensis
+Fungus gnat,has_insecticide,Soybean oil
+Fungus gnat,has_insecticide,Heterorhabditis bacteriophora
+Fungus gnat,has_insecticide,Mineral Oil
+Fungus gnat,has_insecticide,Beauveria bassiana
+Fungus gnat,has_insecticide,Steinernema feltiae
+Fungus gnat,has_insecticide,Paecilomyces fumosoroseus
+Sand fly,has_insecticide,Pyrethrins
+Blow fly,has_insecticide,Pyrethrins
+Blow fly,has_insecticide,Diatomaceous Earth
+Blow fly,has_insecticide,Silicon Dioxide
+Horsefly,has_insecticide,Pyrethrins
+Thrips,has_insecticide,Petroleum Oil
+Thrips,has_insecticide,Azadirachtin
+Thrips,has_insecticide,Isaria fumosorosea Apopka Strain 97
+Thrips,has_insecticide,Sulfur
+Thrips,has_insecticide,Beauveria bassiana Strain ANT 03
+Thrips,has_insecticide,Garlic Extract
+Springtail,has_insecticide,Pyrethrins
+Springtail,has_insecticide,Diatomaceous Earth
+Springtail,has_insecticide,Silicon Dioxide
+Scarab beetle,has_insecticide,Heterorhabditis bacteriophora
+Mealybug,has_insecticide,Azadirachtin
+Mealybug,has_insecticide,Isaria fumosorosea Apopka Strain 97
+Mealybug,has_insecticide,Garlic Extract
+Mealybug,has_insecticide,Pyrethrins
+Mealybug,has_insecticide,Diatomaceous Earth
+Mealybug,has_insecticide,Silicon Dioxide
+Mealybug,has_insecticide,Cinnamon Oil
+Mealybug,has_insecticide,Mineral Oil
+Mealybug,has_insecticide,Fats and Glyceridic Oils of Margosa
+Mealybug,has_insecticide,Potassium Salts of Fatty Acids
+Mealybug,has_insecticide,Rosemary Oil
+Mealybug,has_insecticide,Neem Oil
+Mealybug,has_insecticide,S-Kinoprene
+Mealybug,has_insecticide,Petroleum Oil
+Mealybug,has_insecticide,Soybean oil
+Mealybug,has_insecticide,Chromobacterium subtsugae strain PRAA4-1 T
+Mealybug,has_insecticide,Paraffinic Oil
+Mealybug,has_insecticide,Calcium polysulfide
+Mealybug,has_insecticide,Canola oil
+Mealybug,has_insecticide,Paecilomyces fumosoroseus
+Mealybug,has_insecticide,Isaria fumosorosea Apopka Strain 97
+Mealybug,has_insecticide,Ammonium Nonanoate
+Mealybug,has_insecticide,Burkholderia spp. strain A396
+Whitefly,has_insecticide,Petroleum Oil
+Whitefly,has_insecticide,Azadirachtin
+Whitefly,has_insecticide,Isaria fumosorosea Apopka Strain 97
+Whitefly,has_insecticide,Beauveria bassiana Strain ANT 03
+Whitefly,has_insecticide,Garlic Extract
+Whitefly,has_insecticide,Pyrethrins
+Whitefly,has_insecticide,Diatomaceous Earth
+Whitefly,has_insecticide,Silicon Dioxide
+Whitefly,has_insecticide,Cinnamon Oil
+Whitefly,has_insecticide,Mineral Oil
+Whitefly,has_insecticide,Fats and Glyceridic Oils of Margosa
+Whitefly,has_insecticide,Jojoba Oil
+Whitefly,has_insecticide,Rosemary Oil
+Whitefly,has_insecticide,Neem Oil
+Whitefly,has_insecticide,S-Kinoprene
+Whitefly,has_insecticide,Potassium Salts of Fatty Acids
+Whitefly,has_insecticide,Soybean oil
+Whitefly,has_insecticide,Chromobacterium subtsugae strain PRAA4-1 T
+Whitefly,has_insecticide,Paraffinic Oil
+Whitefly,has_insecticide,Sophora Flavescens Plant Extract
+Whitefly,has_insecticide,Metarhizium anisopliae
+Whitefly,has_insecticide,Beauveria bassiana
+Whitefly,has_insecticide,Canola oil
+Whitefly,has_insecticide,Paecilomyces fumosoroseus
+Whitefly,has_insecticide,Isaria fumosorosea Apopka Strain 97
+Whitefly,has_insecticide,Ammonium Nonanoate
+Whitefly,has_insecticide,Thyme oil
+Whitefly,has_insecticide,Garlic Oil
+Whitefly,has_insecticide,Potassium silicate
+Whitefly,has_insecticide,Kaolin
+Leafhopper,has_insecticide,Azadirachtin
+Leafhopper,has_insecticide,Garlic Extract
+Leafhopper,has_insecticide,Beauveria bassiana Strain GHA
+Leafhopper,has_insecticide,Pyrethrins
+Leafhopper,has_insecticide,Cinnamon Oil
+Leafhopper,has_insecticide,Mineral Oil
+Leafhopper,has_insecticide,Fats and Glyceridic Oils of Margosa
+Leafhopper,has_insecticide,Potassium Salts of Fatty Acids
+Leafhopper,has_insecticide,Diatomaceous Earth
+Leafhopper,has_insecticide,Silicon Dioxide
+Leafhopper,has_insecticide,Rosemary Oil
+Leafhopper,has_insecticide,Neem Oil
+Leafhopper,has_insecticide,Potassium Salts of Fatty Acids
+Leafhopper,has_insecticide,Petroleum Oil
+Leafhopper,has_insecticide,Soybean oil
+Leafhopper,has_insecticide,Chromobacterium subtsugae strain PRAA4-1 T
+Leafhopper,has_insecticide,Paraffinic Oil
+Leafhopper,has_insecticide,Beauveria bassiana Strain GHA
+Leafhopper,has_insecticide,Canola oil
+Leafhopper,has_insecticide,Ammoniated soap of fatty acids
+Leafhopper,has_insecticide,Paecilomyces fumosoroseus
+Leafhopper,has_insecticide,D-Limonene
+Leafhopper,has_insecticide,Paraffinic Oil
+Leafhopper,has_insecticide,Thyme oil
+Leafhopper,has_insecticide,Garlic Oil
+Leafhopper,has_insecticide,Kaolin
+Leafhopper,has_insecticide,Burkholderia spp. strain A396
+Gall Midge,has_insecticide,Spinosad
+Gall Midge,has_insecticide,Heterorhabditis bacteriophora
+Sawtoothed grain beetle,has_insecticide,Diatomaceous Earth
+Sawtoothed grain beetle,has_insecticide,Silicon Dioxide
+Sawtoothed grain beetle,has_insecticide,Pyrethrins
+Sawtoothed grain beetle,has_insecticide,Rosemary Oil
+Confused Flour Beetle,has_insecticide,Pyrethrins
+Confused Flour Beetle,has_insecticide,Diatomaceous Earth
+Confused Flour Beetle,has_insecticide,Silicon Dioxide
+Confused Flour Beetle,has_insecticide,Rosemary Oil
+Red Flour Beetle,has_insecticide,Pyrethrins
+Red Flour Beetle,has_insecticide,Diatomaceous Earth
+Red Flour Beetle,has_insecticide,Silicon Dioxide
+Red Flour Beetle,has_insecticide,Rosemary Oil
+Lice,has_insecticide,Pyrethrins
+Lice,has_insecticide,Diatomaceous Earth
+Lice,has_insecticide,Silicon Dioxide
+Flea,has_insecticide,Dinotefuran
+Flea,has_insecticide,Garlic Extract
+Flea,has_insecticide,Diatomaceous Earth
+Flea,has_insecticide,Silicon Dioxide
+Flea,has_insecticide,Spinosad
+Flea,has_insecticide,Pyrethrins
+Flea,has_insecticide,Rosemary Oil
+Flea,has_insecticide,Steinernema carpocapsae
+Flea,has_insecticide,Heterorhabditis bacteriophora
+Tick,has_insecticide,Pyrethrins
+Tick,has_insecticide,Rosemary Oil
+Tick,has_insecticide,Garlic Extract
+Tick,has_insecticide,Metarhizium anisopliae
+Bot Fly,has_insecticide,Azadirachtin
+cricket,has_insecticide,Azadirachtin
+cricket,has_insecticide,Dinotefuran
+cricket,has_insecticide,Pyrethrins
+cricket,has_insecticide,Diatomaceous Earth
+cricket,has_insecticide,Silicon Dioxide
+cricket,has_insecticide,Rosemary Oil
+cricket,has_insecticide,Boric Acid
+cricket,has_insecticide,Potassium Salts of Fatty Acids
+Millipede,has_insecticide,Dinotefuran
+Millipede,has_insecticide,Azadirachtin
+Millipede,has_insecticide,Pyrethrins
+Millipede,has_insecticide,Diatomaceous Earth
+Millipede,has_insecticide,Silicon Dioxide
+Millipede,has_insecticide,Rosemary Oil
+Mole Cricket,has_insecticide,Azadirachtin
+Mole Cricket,has_insecticide,Pyrethrins
+Mole Cricket,has_insecticide,Diatomaceous Earth
+Mole Cricket,has_insecticide,Silicon Dioxide
+Mole Cricket,has_insecticide,Rosemary Oil
+Mole Cricket,has_insecticide,Neem Oil
+Mole Cricket,has_insecticide,Garlic Extract
+Mole Cricket,has_insecticide,Heterorhabditis bacteriophora
+Mole Cricket,has_insecticide,Potassium Salts of Fatty Acids
+Mole Cricket,has_insecticide,Beauveria bassiana Strain GHA
+Mole Cricket,has_insecticide,Steinernema carpocapsae
+Mole Cricket,has_insecticide,Steinernema kraussei
+fly,has_insecticide,Azadirachtin
+fly,has_insecticide,Dinotefuran
+fly,has_insecticide,Garlic Extract
+fly,has_insecticide,Pyrethrins
+fly,has_insecticide,Diatomaceous Earth
+fly,has_insecticide,Silicon Dioxide
+fly,has_insecticide,Rosemary Oil
+fly,has_insecticide,Neem Oil
+bees,has_insecticide,Pyrethrins
+bees,has_insecticide,Rosemary Oil
+caterpillar,has_insecticide,Azadirachtin
+caterpillar,has_insecticide,Garlic Extract
+caterpillar,has_insecticide,Pyrethrins
+caterpillar,has_insecticide,Diatomaceous Earth
+caterpillar,has_insecticide,Silicon Dioxide
+caterpillar,has_insecticide,Spinosad
+caterpillar,has_insecticide,Mineral Oil
+caterpillar,has_insecticide,Rosemary Oil
+caterpillar,has_insecticide,Neem Oil
+caterpillar,has_insecticide,Garlic Extract
+caterpillar,has_insecticide,Soybean oil
+centipede,has_insecticide,Dinotefuran
+centipede,has_insecticide,Diatomaceous Earth
+centipede,has_insecticide,Silicon Dioxide
+centipede,has_insecticide,Pyrethrins
+centipede,has_insecticide,Rosemary Oil
+earthworms,has_insecticide,Spinosad
+earthworms,has_insecticide,Mineral Oil
+earthworms,has_insecticide,Garlic Extract
+earthworms,has_insecticide,Soybean oil
+earthworms,has_insecticide,Paraffinic Oil
+grasshopper,has_insecticide,Azadirachtin
+grasshopper,has_insecticide,Pyrethrins
+grasshopper,has_insecticide,Diatomaceous Earth
+grasshopper,has_insecticide,Silicon Dioxide
+grasshopper,has_insecticide,Rosemary Oil
+grasshopper,has_insecticide,Garlic Extract
+grasshopper,has_insecticide,Kaolin
+grasshopper,has_insecticide,Spinosad
+slug,has_insecticide,Garlic Extract
+slug,has_insecticide,Garlic Extract
+slug,has_insecticide,Boric Acid
+slug,has_insecticide,Diatomaceous Earth
+slug,has_insecticide,Silicon Dioxide
+snail,has_insecticide,Azadirachtin
+snail,has_insecticide,Boric Acid
+wasp,has_insecticide,Pyrethrins
+wasp,has_insecticide,Rosemary Oil
+Abamectin,has_brand,Bayer Hextar Syngenta
+Abamectin,has_brand,ACM
+Abamectin,has_brand,ZEENEX
+Abamectin,has_brand,Bendosen
+Abamectin,has_brand,Pharmaniaga
+Abamectin,has_brand,BASF
+Abamectin,has_brand,Eiko
+Abamectin,has_brand,ABC
+Abamectin,has_brand,Rainbow
+Abamectin,has_brand,mekitor
+Abamectin,has_brand,IMASPRO
+Abamectin,has_brand,Lovinland
+Abamectin,has_brand,PB SOLAR
+Abamectin,has_brand,LAUNCH
+Abamectin,has_brand,Meditech lab
+Abamectin,has_brand,Reddog
+Abamectin,has_brand,D.I.Y
+Abamectin,has_brand,Jacko
+Ammoniated soap of fatty acids,has_brand,Bar Soap
+Ammoniated soap of fatty acids,has_brand,Greases & Lubricants
+Ammoniated soap of fatty acids,has_brand,Facial Cleansers
+Ammoniated soap of fatty acids,has_brand,Body Wash
+Ammoniated soap of fatty acids,has_brand,Facial Oils
+Ammoniated soap of fatty acids,has_brand,Liquid Detergent
+Ammoniated soap of fatty acids,has_brand,Essential Oil
+Ammoniated soap of fatty acids,has_brand,Soap Dishes
+Ammonium Nonanoate,has_brand,not sold here
+Azadirachtin,has_brand,Weeds & Pest Control
+Azadirachtin,has_brand,Liquid Lipsticks
+Azadirachtin,has_brand,Concealer
+Azadirachtin,has_brand,Multivitamins
+Azadirachtin,has_brand,Nail Art & Stickers
+Azadirachtin,has_brand,Soother Accessories
+Azadirachtin,has_brand,Insect Repellent
+Azadirachtin,has_brand,Bath & Body Accessories
+Bacillus sphaericus,has_brand,not sold here
+Bacillus thuringiensis var. aizawai,has_brand,not sold here
+Bacillus thuringiensis var. israelensis,has_brand,not sold here
+Bacillus thuringiensis var. kurstaki,has_brand,not sold here
+Beauveria bassiana,has_brand,Weeds & Pest Control
+Beauveria bassiana,has_brand,Garden Soil & Fertilizers
+Beauveria bassiana,has_brand,"Plants, Seeds, & Bulbs"
+Beauveria bassiana,has_brand,Health Accessories
+Beauveria bassiana,has_brand,Injury Support and Braces
+Beauveria bassiana,has_brand,Appetite Suppressant
+Beauveria bassiana,has_brand,Pulse Oximeters
+Beauveria bassiana,has_brand,Scale & Body Fat Analyzers
+Beauveria bassiana Strain ANT 03,has_brand,not sold here
+Beauveria bassiana Strain GHA,has_brand,not sold here
+Boric Acid,has_brand,Take It Global
+Boric Acid,has_brand,ARS
+Boric Acid,has_brand,China OEM
+Boric Acid,has_brand,Yuerlian
+Burkholderia spp. strain A396,has_brand,not sold here
+Calcium polysulfide,has_brand,not sold here
+Canola oil,has_brand,Naturel
+Canola oil,has_brand,PureOli
+Canola oil,has_brand,SaFOLi
+Canola oil,has_brand,Heng's Mazola
+Canola oil,has_brand,Cargill
+Chromobacterium subtsugae strain PRAA4-1 T,has_brand,not sold here
+Chromobacterium subtsugae strain PRAA4-1T,has_brand,not sold here
+Cinnamon Oil,has_brand,Green Herbology
+Cinnamon Oil,has_brand,Now Foods
+Cinnamon Oil,has_brand,PHATOIL
+Cinnamon Oil,has_brand,BF1 Soul
+Clove Oil,has_brand,Dabur
+Clove Oil,has_brand,Now Foods
+Clove Oil,has_brand,FUTURE FOOD
+Clove Oil,has_brand,BF1 Soul
+Clove Oil,has_brand,HURIX'S
+Clove Oil,has_brand,Green Herbology
+Clove Oil,has_brand,OriCeylon
+Clove Oil,has_brand,Plant Therapy
+Clove Oil,has_brand,HiQiLi
+Diatomaceous Earth,has_brand,AGROSTAR
+Diatomaceous Earth,has_brand,Pest Control In a Box
+Diatomaceous Earth,has_brand,Pest Exchange
+Diatomaceous Earth,has_brand,Take It Global
+Diatomaceous Earth,has_brand,SAVETRONICS
+Dinotefuran,has_brand,Halex
+Dinotefuran,has_brand,ABK
+Disodium Octaborate Tetrahydrate,has_brand,Only sold with no-brand
+D-Limonene,has_brand,HH Herb & Health
+D-Limonene,has_brand,FAN BEAUTY DIARY
+D-Limonene,has_brand,Watsons
+D-Limonene,has_brand,Forest Cabin
+D-Limonene,has_brand,LIFEEXTENSION
+D-Limonene,has_brand,Eucapro
+D-Limonene,has_brand,RENOSKIN
+D-Limonene,has_brand,Maison Margiela Fragranc
+D-Limonene,has_brand,FUTURE FOOD
+D-Limonene,has_brand,YOUNG LIVING
+D-Limonene,has_brand,Alia
+D-Limonene,has_brand,Ego Qv
+D-Limonene,has_brand,Amiro
+D-Limonene,has_brand,Joseristine
+D-Limonene,has_brand,Royal Expert
+D-Limonene,has_brand,The Ordinary
+D-Limonene,has_brand,Wonderlab
+D-Limonene,has_brand,TrueLifeSciences
+D-Limonene,has_brand,Heveblue
+D-Limonene,has_brand,encorium
+Eugenol,has_brand,Bayer
+Eugenol,has_brand,Salt of the Earth
+Eugenol,has_brand,Hextar
+Eugenol,has_brand,Counterpain
+Eugenol,has_brand,Alhambra
+Eugenol,has_brand,China OEM
+Eugenol,has_brand,LITE
+Eugenol,has_brand,Eucapro
+Eugenol,has_brand,Taisho
+Eugenol,has_brand,Dettol
+Eugenol,has_brand,Lovinland
+Eugenol,has_brand,ZEENEX
+Eugenol,has_brand,Melvita
+Eugenol,has_brand,Shanjia
+Eugenol,has_brand,LOVALI
+Eugenol,has_brand,BUZZQITO
+Eugenol,has_brand,OUD MOOD LATAFFA
+Eugenol,has_brand,Dabur
+Eugenol,has_brand,DUPONT (USA)
+Eugenol,has_brand,Zentel
+Eugenol,has_brand,Dow Chemical
+Fats and Glyceridic Oils of Margosa,has_brand,not sold here
+Garlic Extract,has_brand,Kyolic
+Garlic Extract,has_brand,Blackmores
+Garlic Extract,has_brand,DNGWorldwide
+Garlic Extract,has_brand,Healthy Care Australia
+Garlic Extract,has_brand,Chemist Warehouse
+Garlic Extract,has_brand,21st Century
+Garlic Extract,has_brand,Xemenry NHF
+Garlic Extract,has_brand,Naturewells
+Garlic Extract,has_brand,Nutra Life
+Garlic Oil,has_brand,Blackmores
+Garlic Oil,has_brand,Naturalle
+Garlic Oil,has_brand,Custom
+Garlic Oil,has_brand,Healthy Care Australia
+Garlic Oil,has_brand,Red Eagle
+Garlic Oil,has_brand,Aunty Meng Homemade
+Garlic Oil,has_brand,Hovid
+Garlic Oil,has_brand,Pagoda
+Garlic Oil,has_brand,Lacust
+Garlic Oil,has_brand,Nojokefood
+Garlic Oil,has_brand,BF1 Soul
+Garlic Oil,has_brand,Daitea
+Garlic Oil,has_brand,HLP
+Heterorhabditis bacteriophora,has_brand,not sold here
+Isaria fumosorosea,has_brand,not sold here
+Isaria fumosorosea Apopka Strain 97,has_brand,not sold here
+Jojoba Oil,has_brand,Future food
+Jojoba Oil,has_brand,Dear louvette
+Jojoba Oil,has_brand,In scent
+Jojoba Oil,has_brand,IKO
+Jojoba Oil,has_brand,Inroots
+Kaolin,has_brand,Green Herbology
+Kaolin,has_brand,HTM PHARMACY
+Kaolin,has_brand,Swisse
+Metarhizium anisopliae,has_brand,BF1 Soul
+Metarhizium anisopliae,has_brand,music flower
+Metarhizium anisopliae,has_brand,OME
+Metarhizium anisopliae,has_brand,D.I.Y
+Metarhizium anisopliae,has_brand,Bayer
+Metarhizium anisopliae,has_brand,GHOICE
+Metarhizium anisopliae,has_brand,Selek'ed
+Mineral Oil,has_brand,CTEM
+Mineral Oil,has_brand,IN-SCENT
+Mineral Oil,has_brand,Himalaya
+Mineral Oil,has_brand,Caltex
+Mineral Oil,has_brand,OceAura
+Mineral Oil,has_brand,NEWBOLER
+Mineral Oil,has_brand,Perodua
+Mineral Oil,has_brand,Mizu
+Mineral Oil,has_brand,Eneos
+Mineral Oil,has_brand,Nanovet
+Mineral Oil,has_brand,MORRISON
+Neem Oil,has_brand,WHT Wellgrow Seeds
+Neem Oil,has_brand,Neem
+Neem Oil,has_brand,Agro Farm
+Neem Oil,has_brand,BABA
+Neem Oil,has_brand,Pherotools PEST CONTROL
+Neem Oil,has_brand,ΙΚΟ
+Neem Oil,has_brand,Now Foods
+Neem Oil,has_brand,Miracle Products
+Neem Oil,has_brand,Dear Louvette
+Neem Oil,has_brand,Nutri Grow LC
+Neem Oil,has_brand,Serbajadi
+Paecilomyces fumosoroseus,has_brand,not sold here
+Paraffinic Oil,has_brand,OEM
+Paraffinic Oil,has_brand,Naco
+Paraffinic Oil,has_brand,Natura house
+Paraffinic Oil,has_brand,Perfk
+Paraffinic Oil,has_brand,CANTU
+Paraffinic Oil,has_brand,Shea Moisture
+Paraffinic Oil,has_brand,HTM PHARMACY
+Paraffinic Oil,has_brand,Yu Yee Oil Cucciolo
+Paraffinic Oil,has_brand,Origins
+Paraffinic Oil,has_brand,Alfaparf
+Paraffinic Oil,has_brand,MIELLE
+Paraffinic Oil,has_brand,TIGER BALM
+Paraffinic Oil,has_brand,Branded
+Paraffinic Oil,has_brand,YU YEE
+Paraffinic Oil,has_brand,Petto Professional
+Paraffinic Oil,has_brand,Sanosan
+Paraffinic Oil,has_brand,CAP LIMAU
+Paraffinic Oil,has_brand,Kwan Loong
+Paraffinic Oil,has_brand,FUTURE FOOD
+Paraffinic Oil,has_brand,Herbal Essences
+Paraffinic Oil,has_brand,Elegance
+Petroleum Oil,has_brand,Vaseline
+Petroleum Oil,has_brand,HS
+Potassium Salts of Fatty Acids,has_brand,friskies
+Potassium Salts of Fatty Acids,has_brand,BUTTONS & BOWS
+Potassium Salts of Fatty Acids,has_brand,Three Squirrels
+Potassium Salts of Fatty Acids,has_brand,Hills
+Potassium Salts of Fatty Acids,has_brand,AGV
+Potassium Salts of Fatty Acids,has_brand,Compo Health
+Potassium Salts of Fatty Acids,has_brand,Blackwood
+Potassium Salts of Fatty Acids,has_brand,Fussie Cat
+Potassium silicate,has_brand,Growth Technology
+Potassium silicate,has_brand,Sugarflair Colours
+Pyrethrins,has_brand,KCK
+Pyrethrins,has_brand,Daitea
+Pyrethrins,has_brand,Oway
+Pyrethrins,has_brand,Forever Living
+Pyrethrins,has_brand,Polylab
+Pyrethrins,has_brand,FUTURE FOOD
+Pyrethrins,has_brand,21st Century
+Pyrethrins,has_brand,Hank's
+Pyrethrins,has_brand,HEALTH PARADISE
+Pyrethrins,has_brand,PHHP
+Pyrethrins,has_brand,PureMed
+Pyrethrins,has_brand,Dynamic Nutrition
+Pyrethrins,has_brand,Tropic Marin
+Pyrethrins,has_brand,Allergan
+Pyrethrins,has_brand,Lillet
+Pyrethrins,has_brand,MyProtein
+Pyrethrins,has_brand,VITAHEALTH
+Pyrethrins,has_brand,Ain Medicare
+Pyrethrins,has_brand,THE PRIME
+Pyrethrins,has_brand,YATES
+Pyrethrins,has_brand,Cosway
+Pyrethrins,has_brand,Trelife Wellness
+Rosemary Oil,has_brand,eelhoe
+Rosemary Oil,has_brand,Rondaful
+Rosemary Oil,has_brand,MIELLE
+Rosemary Oil,has_brand,Mamaearth
+Rosemary Oil,has_brand,Mijep
+Rosemary Oil,has_brand,Green Herbology
+Rosemary Oil,has_brand,Spamoni
+Rosemary Oil,has_brand,Flora
+Rosemary Oil,has_brand,FUTURE FOOD
+Rosemary Oil,has_brand,Now Foods
+Rosemary Oil,has_brand,Dermalab
+Rosemary Oil,has_brand,Claire Organics
+Rosemary Oil,has_brand,Watsons
+Rosemary Oil,has_brand,rorec
+Rosemary Oil,has_brand,Wow Skin Science
+Silicon Dioxide,has_brand,AGROSTAR
+Silicon Dioxide,has_brand,Pest Control In a Box
+Silicon Dioxide,has_brand,Pest Exchange
+Silicon Dioxide,has_brand,Take It Global
+Silicon Dioxide,has_brand,SAVETRONICS
+S-Kinoprene,has_brand,not sold here
+Sodium Borate,has_brand,IN-SCENT
+Sodium Borate,has_brand,Take It Global
+Sodium Borate,has_brand,China OEM
+Sodium Tetraborate Decahydrate,has_brand,My2Vis
+Sophora Flavescens Plant Extract,has_brand,Pherotools pest control
+Soybean oil,has_brand,Soya Lite
+Soybean oil,has_brand,Now Foods
+Soybean oil,has_brand,Bumble Bee
+Soybean oil,has_brand,Knife
+Soybean oil,has_brand,Green Herbology
+Spinosad,has_brand,Sangobion
+Spinosad,has_brand,TOCOVID
+Spinosad,has_brand,Hovid
+Spinosad,has_brand,Senokot
+Spinosad,has_brand,Sandoz
+Spinosad,has_brand,Panadol
+Spinosad,has_brand,Dyna
+Spinosad,has_brand,R Pharmacy
+Spinosad,has_brand,ALUCID
+Spinosad,has_brand,YSP Industries Sdn Bhd
+Spinosad,has_brand,SMECTA
+Spinosad,has_brand,HTM PHARMACY
+Spinosad,has_brand,HOMECARE.PH
+Spinosad,has_brand,PROSPAN
+Spinosad,has_brand,Steriline
+Spinosad,has_brand,VETPLUS
+Spinosad,has_brand,Sunway
+Spinosad,has_brand,Bayer
+Spinosad,has_brand,SEOBIO
+Spinosad,has_brand,Eiko
+Spinosad,has_brand,Parodontax
+Steinernema carpocapsae,has_brand,not sold here
+Steinernema feltiae,has_brand,not sold here
+Steinernema kraussei,has_brand,not sold here
+Sulfur,has_brand,JF
+Sulfur,has_brand,HTM PHARMACY
+Sulfur,has_brand,NIXODERM
+Sulfur,has_brand,Sunway
+Sulfur,has_brand,Mytools
+Sulfur,has_brand,RENEQ
+Sulfur,has_brand,Sea to Summit
+Thyme oil,has_brand,Green Herbology
+Thyme oil,has_brand,BF1 Soul
+Thyme oil,has_brand,Plant Therapy
+Thyme oil,has_brand,FUTURE FOOD
+Thyme oil,has_brand,PHATOIL
+Thyme oil,has_brand,Oshadhi

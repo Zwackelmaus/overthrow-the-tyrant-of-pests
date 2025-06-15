@@ -1,0 +1,389 @@
+﻿subject,predicate,object
+Cockroach,treated_by,Pyrethrins
+Cockroach,treated_by,Diatomaceous Earth
+Cockroach,treated_by,Silicon Dioxide
+Cockroach,treated_by,Rosemary Oil
+Cockroach,treated_by,Abamectin Bait
+Cockroach,treated_by,Boric Acid
+Mosquito,treated_by,Azadirachtin
+Mosquito,treated_by,Bacillus thuringiensis var. israelensis
+Mosquito,treated_by,Garlic Extract
+Mosquito,treated_by,Spinosad
+Mosquito,treated_by,Pyrethrins
+Mosquito,treated_by,Bacillus sphaericus
+Ant,treated_by,Abamectin
+Ant,treated_by,Dinotefuran
+Ant,treated_by,Azadirachtin
+Ant,treated_by,Spinosad
+Ant,treated_by,Boric Acid
+Ant,treated_by,Pyrethrins
+Ant,treated_by,Diatomaceous Earth
+Ant,treated_by,Silicon Dioxide
+Ant,treated_by,Rosemary Oil
+Ant,treated_by,Garlic Extract
+Ant,treated_by,Disodium Octaborate Tetrahydrate
+Ant,treated_by,Sodium Tetraborate Decahydrate
+Ant,treated_by,Heterorhabditis bacteriophora
+Ant,treated_by,Sodium Borate
+Termite,treated_by,Azadirachtin
+Termite,treated_by,Disodium Octaborate Tetrahydrate
+Termite,treated_by,Boric Acid
+Termite,treated_by,Rosemary Oil
+Termite,treated_by,Heterorhabditis bacteriophora
+Termite,treated_by,Steinernema carpocapsae
+Housefly,treated_by,Azadirachtin
+Housefly,treated_by,Dinotefuran
+Housefly,treated_by,Pyrethrins
+Fruit fly,treated_by,Azadirachtin
+Fruit fly,treated_by,Pyrethrins
+Fruit fly,treated_by,Diatomaceous Earth
+Fruit fly,treated_by,Silicon Dioxide
+Fruit fly,treated_by,Spinosad
+Fruit fly,treated_by,Fats and Glyceridic Oils of Margosa
+Fruit fly,treated_by,Sulfur
+Fruit fly,treated_by,Rosemary Oil
+Fruit fly,treated_by,Garlic Extract
+Fruit fly,treated_by,Chromobacterium subtsugae strain PRAA4-1T
+Fruit fly,treated_by,Heterorhabditis bacteriophora
+Fruit fly,treated_by,Kaolin
+Silverfish,treated_by,Boric Acid
+Silverfish,treated_by,Pyrethrins
+Silverfish,treated_by,Diatomaceous Earth
+Silverfish,treated_by,Silicon Dioxide
+Silverfish,treated_by,Rosemary Oil
+Silverfish,treated_by,Abamectin Bait
+Carpet beetle,treated_by,Pyrethrins
+Carpet beetle,treated_by,Diatomaceous Earth
+Carpet beetle,treated_by,Silicon Dioxide
+Bed bug,treated_by,Dinotefuran
+Bed bug,treated_by,Pyrethrins
+Bed bug,treated_by,Diatomaceous Earth
+Bed bug,treated_by,Silicon Dioxide
+Flea,treated_by,Dinotefuran
+Flea,treated_by,Garlic Extract
+Flea,treated_by,Diatomaceous Earth
+Flea,treated_by,Silicon Dioxide
+Flea,treated_by,Spinosad
+Flea,treated_by,Pyrethrins
+Flea,treated_by,Rosemary Oil
+Flea,treated_by,Steinernema carpocapsae
+Flea,treated_by,Heterorhabditis bacteriophora
+Moth,treated_by,Azadirachtin
+Moth,treated_by,Garlic Extract
+Moth,treated_by,Pyrethrins
+Moth,treated_by,Diatomaceous Earth
+Moth,treated_by,Silicon Dioxide
+Moth,treated_by,Rosemary Oil
+Booklouse,treated_by,Diatomaceous Earth
+Booklouse,treated_by,Silicon Dioxide
+Spider,treated_by,Dinotefuran
+Spider,treated_by,Pyrethrins
+Spider,treated_by,Rosemary Oil
+Spider,treated_by,Garlic Extract
+Centipede,treated_by,Dinotefuran
+Centipede,treated_by,Diatomaceous Earth
+Centipede,treated_by,Silicon Dioxide
+Centipede,treated_by,Pyrethrins
+Centipede,treated_by,Rosemary Oil
+Weevil,treated_by,Azadirachtin
+Weevil,treated_by,Garlic Extract
+Weevil,treated_by,Pyrethrins
+Weevil,treated_by,Diatomaceous Earth
+Weevil,treated_by,Silicon Dioxide
+Weevil,treated_by,Fats and Glyceridic Oils of Margosa
+Weevil,treated_by,Rosemary Oil
+Weevil,treated_by,Neem Oil
+Weevil,treated_by,Metarhizium anisopliae
+Weevil,treated_by,Heterorhabditis bacteriophora
+Weevil,treated_by,Isaria fumosorosea
+Weevil,treated_by,Paecilomyces fumosoroseus
+Weevil,treated_by,Isaria fumosorosea Apopka Strain 97
+Plodia interpunctella,treated_by,Bacillus thuringiensis var. kurstaki
+Plodia interpunctella,treated_by,Pyrethrins
+Plodia interpunctella,treated_by,Diatomaceous Earth
+Plodia interpunctella,treated_by,Silicon Dioxide
+Plodia interpunctella,treated_by,Bacillus thuringiensis var. israelensis
+Plodia interpunctella,treated_by,Bacillus thuringiensis var. aizawai
+Gnats,treated_by,Azadirachtin
+Gnats,treated_by,Pyrethrins
+Gnats,treated_by,Diatomaceous Earth
+Gnats,treated_by,Silicon Dioxide
+Gnats,treated_by,S-Kinoprene
+Gnats,treated_by,Bacillus thuringiensis var. israelensis
+Gnats,treated_by,Soybean oil
+Gnats,treated_by,Heterorhabditis bacteriophora
+Gnats,treated_by,Mineral Oil
+Gnats,treated_by,Beauveria bassiana
+Gnats,treated_by,Steinernema feltiae
+Gnats,treated_by,Isaria fumosorosea
+Gnats,treated_by,Paecilomyces fumosoroseus
+Gnats,treated_by,Azadirachtin
+Gnats,treated_by,Pyrethrins
+Earwig,treated_by,Dinotefuran
+Earwig,treated_by,Garlic Extract
+Earwig,treated_by,Pyrethrins
+Earwig,treated_by,Diatomaceous Earth
+Earwig,treated_by,Silicon Dioxide
+Earwig,treated_by,Potassium Salts of Fatty Acids
+Earwig,treated_by,Rosemary Oil
+Earwig,treated_by,Boric Acid
+Earwig,treated_by,Ammoniated soap of fatty acids
+Earwig,treated_by,Ammonium Nonanoate
+Earwig,treated_by,Clove Oil
+Earwig,treated_by,Eugenol
+Beetle,treated_by,Azadirachtin
+Beetle,treated_by,Garlic Extract
+Beetle,treated_by,Spinosad
+Beetle,treated_by,Pyrethrins
+Beetle,treated_by,Diatomaceous Earth
+Beetle,treated_by,Silicon Dioxide
+Beetle,treated_by,Fats and Glyceridic Oils of Margosa
+Beetle,treated_by,Rosemary Oil
+Beetle,treated_by,Neem Oil
+Beetle,treated_by,Garlic Extract
+Beetle,treated_by,Isaria fumosorosea
+Beetle,treated_by,Paecilomyces fumosoroseus
+Beetle,treated_by,Potassium Salts of Fatty Acids
+Firebrat,treated_by,Pyrethrins
+Firebrat,treated_by,Rosemary Oil
+Crane fly,treated_by,Azadirachtin
+Crane fly,treated_by,Pyrethrins
+Crane fly,treated_by,Diatomaceous Earth
+Crane fly,treated_by,Silicon Dioxide
+Crane fly,treated_by,Garlic Extract
+Rice weevil,treated_by,Pyrethrins
+Rice weevil,treated_by,Diatomaceous Earth
+Rice weevil,treated_by,Silicon Dioxide
+Rice weevil,treated_by,Rosemary Oil
+Rice weevil,treated_by,Azadirachtin
+Cigarette beetle,treated_by,Pyrethrins
+Cigarette beetle,treated_by,Diatomaceous Earth
+Cigarette beetle,treated_by,Silicon Dioxide
+Cigarette beetle,treated_by,Rosemary Oil
+Drugstore Beetle,treated_by,Pyrethrins
+Drugstore Beetle,treated_by,Diatomaceous Earth
+Drugstore Beetle,treated_by,Silicon Dioxide
+Drugstore Beetle,treated_by,Rosemary Oil
+Spider beetle,treated_by,Pyrethrins
+Spider beetle,treated_by,Diatomaceous Earth
+Spider beetle,treated_by,Silicon Dioxide
+Spider beetle,treated_by,Rosemary Oil
+Pharaoh ant,treated_by,Abamectin
+Indianmeal moth,treated_by,Bacillus thuringiensis var. kurstaki
+Indianmeal moth,treated_by,Pyrethrins
+Indianmeal moth,treated_by,Diatomaceous Earth
+Indianmeal moth,treated_by,Silicon Dioxide
+Indianmeal moth,treated_by,Bacillus thuringiensis var. israelensis
+Indianmeal moth,treated_by,Bacillus thuringiensis var. aizawai
+Fungus gnat,treated_by,Azadirachtin
+Fungus gnat,treated_by,Pyrethrins
+Fungus gnat,treated_by,Diatomaceous Earth
+Fungus gnat,treated_by,Silicon Dioxide
+Fungus gnat,treated_by,S-Kinoprene
+Fungus gnat,treated_by,Bacillus thuringiensis var. israelensis
+Fungus gnat,treated_by,Soybean oil
+Fungus gnat,treated_by,Heterorhabditis bacteriophora
+Fungus gnat,treated_by,Mineral Oil
+Fungus gnat,treated_by,Beauveria bassiana
+Fungus gnat,treated_by,Steinernema feltiae
+Fungus gnat,treated_by,Paecilomyces fumosoroseus
+Sand fly,treated_by,Pyrethrins
+Blow fly,treated_by,Pyrethrins
+Blow fly,treated_by,Diatomaceous Earth
+Blow fly,treated_by,Silicon Dioxide
+Horsefly,treated_by,Pyrethrins
+Thrips,treated_by,Petroleum Oil
+Thrips,treated_by,Azadirachtin
+Thrips,treated_by,Isaria fumosorosea Apopka Strain 97
+Thrips,treated_by,Sulfur
+Thrips,treated_by,Beauveria bassiana Strain ANT 03
+Thrips,treated_by,Garlic Extract
+Springtail,treated_by,Pyrethrins
+Springtail,treated_by,Diatomaceous Earth
+Springtail,treated_by,Silicon Dioxide
+Scarab beetle,treated_by,Heterorhabditis bacteriophora
+Mealybug,treated_by,Azadirachtin
+Mealybug,treated_by,Isaria fumosorosea Apopka Strain 97
+Mealybug,treated_by,Garlic Extract
+Mealybug,treated_by,Pyrethrins
+Mealybug,treated_by,Diatomaceous Earth
+Mealybug,treated_by,Silicon Dioxide
+Mealybug,treated_by,Cinnamon Oil
+Mealybug,treated_by,Mineral Oil
+Mealybug,treated_by,Fats and Glyceridic Oils of Margosa
+Mealybug,treated_by,Potassium Salts of Fatty Acids
+Mealybug,treated_by,Rosemary Oil
+Mealybug,treated_by,Neem Oil
+Mealybug,treated_by,S-Kinoprene
+Mealybug,treated_by,Petroleum Oil
+Mealybug,treated_by,Soybean oil
+Mealybug,treated_by,Chromobacterium subtsugae strain PRAA4-1 T
+Mealybug,treated_by,Paraffinic Oil
+Mealybug,treated_by,Calcium polysulfide
+Mealybug,treated_by,Canola oil
+Mealybug,treated_by,Paecilomyces fumosoroseus
+Mealybug,treated_by,Isaria fumosorosea Apopka Strain 97
+Mealybug,treated_by,Ammonium Nonanoate
+Mealybug,treated_by,Burkholderia spp. strain A396
+Whitefly,treated_by,Petroleum Oil
+Whitefly,treated_by,Azadirachtin
+Whitefly,treated_by,Isaria fumosorosea Apopka Strain 97
+Whitefly,treated_by,Beauveria bassiana Strain ANT 03
+Whitefly,treated_by,Garlic Extract
+Whitefly,treated_by,Pyrethrins
+Whitefly,treated_by,Diatomaceous Earth
+Whitefly,treated_by,Silicon Dioxide
+Whitefly,treated_by,Cinnamon Oil
+Whitefly,treated_by,Mineral Oil
+Whitefly,treated_by,Fats and Glyceridic Oils of Margosa
+Whitefly,treated_by,Jojoba Oil
+Whitefly,treated_by,Rosemary Oil
+Whitefly,treated_by,Neem Oil
+Whitefly,treated_by,S-Kinoprene
+Whitefly,treated_by,Potassium Salts of Fatty Acids
+Whitefly,treated_by,Soybean oil
+Whitefly,treated_by,Chromobacterium subtsugae strain PRAA4-1 T
+Whitefly,treated_by,Paraffinic Oil
+Whitefly,treated_by,Sophora Flavescens Plant Extract
+Whitefly,treated_by,Metarhizium anisopliae
+Whitefly,treated_by,Beauveria bassiana
+Whitefly,treated_by,Canola oil
+Whitefly,treated_by,Paecilomyces fumosoroseus
+Whitefly,treated_by,Isaria fumosorosea Apopka Strain 97
+Whitefly,treated_by,Ammonium Nonanoate
+Whitefly,treated_by,Thyme oil
+Whitefly,treated_by,Garlic Oil
+Whitefly,treated_by,Potassium silicate
+Whitefly,treated_by,Kaolin
+Leafhopper,treated_by,Azadirachtin
+Leafhopper,treated_by,Garlic Extract
+Leafhopper,treated_by,Beauveria bassiana Strain GHA
+Leafhopper,treated_by,Pyrethrins
+Leafhopper,treated_by,Cinnamon Oil
+Leafhopper,treated_by,Mineral Oil
+Leafhopper,treated_by,Fats and Glyceridic Oils of Margosa
+Leafhopper,treated_by,Potassium Salts of Fatty Acids
+Leafhopper,treated_by,Diatomaceous Earth
+Leafhopper,treated_by,Silicon Dioxide
+Leafhopper,treated_by,Rosemary Oil
+Leafhopper,treated_by,Neem Oil
+Leafhopper,treated_by,Potassium Salts of Fatty Acids
+Leafhopper,treated_by,Petroleum Oil
+Leafhopper,treated_by,Soybean oil
+Leafhopper,treated_by,Chromobacterium subtsugae strain PRAA4-1 T
+Leafhopper,treated_by,Paraffinic Oil
+Leafhopper,treated_by,Beauveria bassiana Strain GHA
+Leafhopper,treated_by,Canola oil
+Leafhopper,treated_by,Ammoniated soap of fatty acids
+Leafhopper,treated_by,Paecilomyces fumosoroseus
+Leafhopper,treated_by,D-Limonene
+Leafhopper,treated_by,Paraffinic Oil
+Leafhopper,treated_by,Thyme oil
+Leafhopper,treated_by,Garlic Oil
+Leafhopper,treated_by,Kaolin
+Leafhopper,treated_by,Burkholderia spp. strain A396
+Gall Midge,treated_by,Spinosad
+Gall Midge,treated_by,Heterorhabditis bacteriophora
+Sawtoothed grain beetle,treated_by,Diatomaceous Earth
+Sawtoothed grain beetle,treated_by,Silicon Dioxide
+Sawtoothed grain beetle,treated_by,Pyrethrins
+Sawtoothed grain beetle,treated_by,Rosemary Oil
+Confused Flour Beetle,treated_by,Pyrethrins
+Confused Flour Beetle,treated_by,Diatomaceous Earth
+Confused Flour Beetle,treated_by,Silicon Dioxide
+Confused Flour Beetle,treated_by,Rosemary Oil
+Red Flour Beetle,treated_by,Pyrethrins
+Red Flour Beetle,treated_by,Diatomaceous Earth
+Red Flour Beetle,treated_by,Silicon Dioxide
+Red Flour Beetle,treated_by,Rosemary Oil
+Lice,treated_by,Pyrethrins
+Lice,treated_by,Diatomaceous Earth
+Lice,treated_by,Silicon Dioxide
+Flea,treated_by,Dinotefuran
+Flea,treated_by,Garlic Extract
+Flea,treated_by,Diatomaceous Earth
+Flea,treated_by,Silicon Dioxide
+Flea,treated_by,Spinosad
+Flea,treated_by,Pyrethrins
+Flea,treated_by,Rosemary Oil
+Flea,treated_by,Steinernema carpocapsae
+Flea,treated_by,Heterorhabditis bacteriophora
+Tick,treated_by,Pyrethrins
+Tick,treated_by,Rosemary Oil
+Tick,treated_by,Garlic Extract
+Tick,treated_by,Metarhizium anisopliae
+Bot Fly,treated_by,Azadirachtin
+cricket,treated_by,Azadirachtin
+cricket,treated_by,Dinotefuran
+cricket,treated_by,Pyrethrins
+cricket,treated_by,Diatomaceous Earth
+cricket,treated_by,Silicon Dioxide
+cricket,treated_by,Rosemary Oil
+cricket,treated_by,Boric Acid
+cricket,treated_by,Potassium Salts of Fatty Acids
+Millipede,treated_by,Dinotefuran
+Millipede,treated_by,Azadirachtin
+Millipede,treated_by,Pyrethrins
+Millipede,treated_by,Diatomaceous Earth
+Millipede,treated_by,Silicon Dioxide
+Millipede,treated_by,Rosemary Oil
+Mole Cricket,treated_by,Azadirachtin
+Mole Cricket,treated_by,Pyrethrins
+Mole Cricket,treated_by,Diatomaceous Earth
+Mole Cricket,treated_by,Silicon Dioxide
+Mole Cricket,treated_by,Rosemary Oil
+Mole Cricket,treated_by,Neem Oil
+Mole Cricket,treated_by,Garlic Extract
+Mole Cricket,treated_by,Heterorhabditis bacteriophora
+Mole Cricket,treated_by,Potassium Salts of Fatty Acids
+Mole Cricket,treated_by,Beauveria bassiana Strain GHA
+Mole Cricket,treated_by,Steinernema carpocapsae
+Mole Cricket,treated_by,Steinernema kraussei
+fly,treated_by,Azadirachtin
+fly,treated_by,Dinotefuran
+fly,treated_by,Garlic Extract
+fly,treated_by,Pyrethrins
+fly,treated_by,Diatomaceous Earth
+fly,treated_by,Silicon Dioxide
+fly,treated_by,Rosemary Oil
+fly,treated_by,Neem Oil
+bees,treated_by,Pyrethrins
+bees,treated_by,Rosemary Oil
+caterpillar,treated_by,Azadirachtin
+caterpillar,treated_by,Garlic Extract
+caterpillar,treated_by,Pyrethrins
+caterpillar,treated_by,Diatomaceous Earth
+caterpillar,treated_by,Silicon Dioxide
+caterpillar,treated_by,Spinosad
+caterpillar,treated_by,Mineral Oil
+caterpillar,treated_by,Rosemary Oil
+caterpillar,treated_by,Neem Oil
+caterpillar,treated_by,Garlic Extract
+caterpillar,treated_by,Soybean oil
+centipede,treated_by,Dinotefuran
+centipede,treated_by,Diatomaceous Earth
+centipede,treated_by,Silicon Dioxide
+centipede,treated_by,Pyrethrins
+centipede,treated_by,Rosemary Oil
+earthworms,treated_by,Spinosad
+earthworms,treated_by,Mineral Oil
+earthworms,treated_by,Garlic Extract
+earthworms,treated_by,Soybean oil
+earthworms,treated_by,Paraffinic Oil
+grasshopper,treated_by,Azadirachtin
+grasshopper,treated_by,Pyrethrins
+grasshopper,treated_by,Diatomaceous Earth
+grasshopper,treated_by,Silicon Dioxide
+grasshopper,treated_by,Rosemary Oil
+grasshopper,treated_by,Garlic Extract
+grasshopper,treated_by,Kaolin
+grasshopper,treated_by,Spinosad
+slug,treated_by,Garlic Extract
+slug,treated_by,Garlic Extract
+slug,treated_by,Boric Acid
+slug,treated_by,Diatomaceous Earth
+slug,treated_by,Silicon Dioxide
+snail,treated_by,Azadirachtin
+snail,treated_by,Boric Acid
+wasp,treated_by,Pyrethrins
+wasp,treated_by,Rosemary Oil
